@@ -1,8 +1,23 @@
-## Welcome to GameRanker
+# Welcome to GameRank
+## An app designed for gamers to find game recommendations from other gamers.
 
-You can use the [editor on GitHub](https://github.com/GameRanker/3002-GamerRanker/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Members:
+  - Brian Satchell: brian.satchell@colorado.edu
+  - Binpeng Wu:  biwu4076@colorado.edu 
+  - Andres Salinas: andres.salinas@colorado.edu 
+  
+### Prototype can be seen on Figma at 
+  - https://www.figma.com/file/ETe4VbllEuV0r0svTQ8s90CF/final-prototype?node-id=0%3A1
+    
+### Video of the prototype in action:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### GameRank was designed from the following stages:
+ - [Initial Plan a Data Collection Methods](https://github.com/GameRanker/3002-GameRank/blob/master/Plan%20and%20DataCollection%20Method.pdf)
+ - [Design Research](https://github.com/GameRanker/3002-GameRank/blob/master/Design%20Research.pdf)
+ - [Paper Prototyping](https://github.com/GameRanker/3002-GameRank/blob/master/PaperPrototype%20Meeting%20notes.pdf)
+ - [Heuristic Evaluation](https://github.com/GameRanker/3002-GameRank/blob/master/Heuristic%20Evaluation.pdf)
+ - [Storyboard and Prototype](https://github.com/GameRanker/3002-GameRank/blob/master/Final%20Storyboard%20and%20Prototype.pdf)
+
 
 ### Markdown
 
