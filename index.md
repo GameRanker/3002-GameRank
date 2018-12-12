@@ -7,7 +7,7 @@
   - Andres Salinas: andres.salinas@colorado.edu 
   
 ### Prototype can be seen on Figma at 
-  - https://www.figma.com/file/ETe4VbllEuV0r0svTQ8s90CF/final-prototype?node-id=0%3A1
+  - [https://www.figma.com/file/ETe4VbllEuV0r0svTQ8s90CF/final-prototype?node-id=0%3A1](https://www.figma.com/file/ETe4VbllEuV0r0svTQ8s90CF/final-prototype?node-id=0%3A1)
     
 ### Video of the prototype in action:
 
