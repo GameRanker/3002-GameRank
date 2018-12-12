@@ -10,6 +10,7 @@
   - [https://www.figma.com/file/ETe4VbllEuV0r0svTQ8s90CF/final-prototype?node-id=0%3A1](https://www.figma.com/file/ETe4VbllEuV0r0svTQ8s90CF/final-prototype?node-id=0%3A1)
     
 ### Video of the prototype in action:
+  [https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD](https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD)
 
 ### GameRank was designed from the following stages:
  - [Initial Plan a Data Collection Methods](https://github.com/GameRanker/3002-GameRank/blob/master/Plan%20and%20DataCollection%20Method.pdf)
